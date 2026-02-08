@@ -1,0 +1,30 @@
+# PHP Files (nicht für GitHub Pages)
+*.php
+
+# SQL Files und Datenbank
+sql/
+*.sql
+
+# Betriebssystemdateien
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE-spezifische Dateien
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Temporäre Dateien
+*.tmp
+*.log
+
+# Upload-Verzeichnisse (falls vorhanden)
+uploads/
+temp/
